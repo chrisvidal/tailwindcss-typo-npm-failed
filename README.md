@@ -1,0 +1,1 @@
+# tailwindcss-typo-npm-failed
